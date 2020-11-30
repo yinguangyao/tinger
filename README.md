@@ -5,7 +5,7 @@
 使用 lerna 和 yarn workspace，可以将公共依赖都安装到顶部，节省资源。
 也可以处理多个项目之间的依赖。
 ## 创建一个子项目
-运行 `yarn create --p <project name>`
+运行 `yarn run create --p <project name>`
 ## 运行一个子项目
 `yarn workspace <project name> run start`
 ## 安装依赖包
