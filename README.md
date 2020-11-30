@@ -15,3 +15,5 @@
 `yarn add -W- D add xxx`
 ### 给所有项目安装
 `yarn workspaces add xxx`
+## 构建
+运行 `yarn workspace <project name> run build` 来构建。
