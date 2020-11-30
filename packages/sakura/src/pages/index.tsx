@@ -6,7 +6,7 @@ import style from './index.module.scss'
 export default function Index() {
   return (
     <>
-      <h1 className={style.title}>little tinger</h1>
+      <h1 className={style.title}>sakura</h1>
       <div className={classnames(style.camera, style['-x'])}>
         <div className={classnames(style.camera, style['-y'])}>
           <div className={classnames(style.camera, style['-z'])}>
