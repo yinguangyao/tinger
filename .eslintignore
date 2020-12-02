@@ -9,3 +9,4 @@ public/*
 **/node_modules
 src/**/__tests__/**/*.(j|t)s?(x)
 src/**/?(*.)(spec|test).(j|t)s?(x)
+.vscode/*
