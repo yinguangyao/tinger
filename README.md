@@ -56,3 +56,7 @@ yo react-kit
 现在都是对每个项目单独构建，配置 nginx 转发到不同的域名。目前已经有了两个项目：
 1. [sakura](http://sakura.gyyin.top)
 2. [flower](http://flower.gyyin.top)
+
+另附教程：
+1. [画一朵樱花](https://github.com/yinguangyao/blog/issues/48)
+2. [落樱效果](https://github.com/yinguangyao/tinger/blob/master/packages/sakura/README.md)
